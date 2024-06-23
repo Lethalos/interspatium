@@ -1,0 +1,967 @@
+fileFormatVersion: 2
+guid: 7bc7a8c68904c274cb041b678777150b
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: animasyon_360_atck1:mixamorig:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_360_atck1:mixamorig:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: 30_attack(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:Japhyr_low
+      parentName: 30_attack(Clone)
+      position: {x: -0, y: 0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:Japhyr_mechanic_fingers_low
+      parentName: animasyon_360_atck1:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:Japhyr_mechanic_001_low
+      parentName: animasyon_360_atck1:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:Japhyr_mechanic_002_low
+      parentName: animasyon_360_atck1:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:Japhyr_boot_prop001_low
+      parentName: animasyon_360_atck1:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:Japhyr_body_low
+      parentName: animasyon_360_atck1:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:Japhyr_side_belt_low
+      parentName: animasyon_360_atck1:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:Japhyr_belt_prop_low
+      parentName: animasyon_360_atck1:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:Japhyr_belt_low
+      parentName: animasyon_360_atck1:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:Japhyr_side_belt_prop001_low
+      parentName: animasyon_360_atck1:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:Japhyr_leg_belt_low
+      parentName: animasyon_360_atck1:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:Japhyr_mechanic_wrist_low
+      parentName: animasyon_360_atck1:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:Japhyr_jacket_low
+      parentName: animasyon_360_atck1:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:japhyr_mechanic_hand_low
+      parentName: animasyon_360_atck1:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:Japhyr_mustache_low
+      parentName: animasyon_360_atck1:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:Japhyr_boot_prop_low
+      parentName: animasyon_360_atck1:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:Japhyr_hair_002_low
+      parentName: animasyon_360_atck1:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:Japhyr_eyes_low
+      parentName: animasyon_360_atck1:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:Japhyr_bags_low
+      parentName: animasyon_360_atck1:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:Japhyr_potion_bottle_low
+      parentName: animasyon_360_atck1:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:japhyr_cornea_low
+      parentName: animasyon_360_atck1:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:mixamorig:Hips
+      parentName: 30_attack(Clone)
+      position: {x: 0.0003958994, y: 0.62907577, z: 0.0023766512}
+      rotation: {x: -0.0000000029103828, y: 0.00000004656613, z: 1.3552526e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:mixamorig:LeftUpLeg
+      parentName: animasyon_360_atck1:mixamorig:Hips
+      position: {x: -0.060549002, y: -0.029282, z: -0.0014399999}
+      rotation: {x: -0.00013151244, y: 0.0037574482, z: 0.9993814, w: 0.034967653}
+      scale: {x: 1.0000018, y: 1.0000011, z: 1}
+    - name: animasyon_360_atck1:mixamorig:LeftLeg
+      parentName: animasyon_360_atck1:mixamorig:LeftUpLeg
+      position: {x: -0, y: 0.269326, z: 0}
+      rotation: {x: -0.05040476, y: -0.0004904068, z: 0.009716684, w: 0.99868155}
+      scale: {x: 1.0000014, y: 1.0000012, z: 0.99999994}
+    - name: animasyon_360_atck1:mixamorig:LeftFoot
+      parentName: animasyon_360_atck1:mixamorig:LeftLeg
+      position: {x: -0, y: 0.256194, z: 0}
+      rotation: {x: 0.47337276, y: 0.060554035, z: -0.0326413, w: 0.87817204}
+      scale: {x: 1.0000004, y: 1, z: 0.99999994}
+    - name: animasyon_360_atck1:mixamorig:LeftToeBase
+      parentName: animasyon_360_atck1:mixamorig:LeftFoot
+      position: {x: -0, y: 0.09534799, z: 0}
+      rotation: {x: 0.3281074, y: 0.046128742, z: -0.016043711, w: 0.94337714}
+      scale: {x: 1.0000023, y: 1.0000027, z: 0.9999997}
+    - name: animasyon_360_atck1:mixamorig:LeftToe_End
+      parentName: animasyon_360_atck1:mixamorig:LeftToeBase
+      position: {x: -0, y: 0.039187, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:mixamorig:RightUpLeg
+      parentName: animasyon_360_atck1:mixamorig:Hips
+      position: {x: 0.060549002, y: -0.029282, z: -0.0016979999}
+      rotation: {x: 0.000108479195, y: 0.0031006238, z: 0.9993836, w: -0.034968078}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: animasyon_360_atck1:mixamorig:RightLeg
+      parentName: animasyon_360_atck1:mixamorig:RightUpLeg
+      position: {x: -0, y: 0.269324, z: 0}
+      rotation: {x: -0.043741077, y: 0.00042586867, z: -0.009725335, w: 0.9989955}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: animasyon_360_atck1:mixamorig:RightFoot
+      parentName: animasyon_360_atck1:mixamorig:RightLeg
+      position: {x: -0, y: 0.25592598, z: 0}
+      rotation: {x: 0.4584045, y: -0.06425402, z: 0.03325196, w: 0.8857941}
+      scale: {x: 1.0000007, y: 1.000001, z: 1.0000002}
+    - name: animasyon_360_atck1:mixamorig:RightToeBase
+      parentName: animasyon_360_atck1:mixamorig:RightFoot
+      position: {x: -0, y: 0.092847005, z: 0}
+      rotation: {x: 0.33823135, y: -0.036742702, z: 0.013217144, w: 0.9402526}
+      scale: {x: 1.000001, y: 1.0000005, z: 1}
+    - name: animasyon_360_atck1:mixamorig:RightToe_End
+      parentName: animasyon_360_atck1:mixamorig:RightToeBase
+      position: {x: -0, y: 0.039917998, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:mixamorig:Spine
+      parentName: animasyon_360_atck1:mixamorig:Hips
+      position: {x: -0, y: 0.054123, z: -0.004578}
+      rotation: {x: -0.042183824, y: -0.000000022771255, z: -0.000000012613338, w: 0.99910986}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: animasyon_360_atck1:mixamorig:Spine1
+      parentName: animasyon_360_atck1:mixamorig:Spine
+      position: {x: -0, y: 0.063369, z: 0}
+      rotation: {x: 0.0000000037252903, y: -0.0000000029438851, z: 0.0000000348003,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: animasyon_360_atck1:mixamorig:Spine2
+      parentName: animasyon_360_atck1:mixamorig:Spine1
+      position: {x: -0, y: 0.072421, z: 0}
+      rotation: {x: -0.000000029802322, y: -0.000000022709552, z: -0.000000007762637,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:mixamorig:LeftShoulder
+      parentName: animasyon_360_atck1:mixamorig:Spine2
+      position: {x: -0.044666998, y: 0.06341, z: -0.0015289999}
+      rotation: {x: 0.5662097, y: -0.41690162, z: 0.5838352, w: 0.40587705}
+      scale: {x: 1.0000013, y: 1.0000013, z: 1.000001}
+    - name: animasyon_360_atck1:mixamorig:LeftArm
+      parentName: animasyon_360_atck1:mixamorig:LeftShoulder
+      position: {x: -0, y: 0.095529, z: 0}
+      rotation: {x: -0.14096661, y: 0.067231, z: -0.026164765, w: 0.9873823}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: animasyon_360_atck1:mixamorig:LeftForeArm
+      parentName: animasyon_360_atck1:mixamorig:LeftArm
+      position: {x: -0, y: 0.146864, z: 0}
+      rotation: {x: -0.02859325, y: 0.008465415, z: -0.03819416, w: 0.9988253}
+      scale: {x: 1.0000004, y: 1.0000004, z: 0.99999994}
+    - name: animasyon_360_atck1:mixamorig:LeftHand
+      parentName: animasyon_360_atck1:mixamorig:LeftForeArm
+      position: {x: -0, y: 0.183686, z: 0}
+      rotation: {x: 0.07962709, y: -0.25892636, z: 0.052267708, w: 0.96118927}
+      scale: {x: 1.0000011, y: 1.0000013, z: 1}
+    - name: animasyon_360_atck1:mixamorig:LeftHandThumb1
+      parentName: animasyon_360_atck1:mixamorig:LeftHand
+      position: {x: 0.017305, y: 0.02476, z: 0.003402}
+      rotation: {x: -0.038913958, y: 0.0309714, z: -0.30051506, w: 0.9524795}
+      scale: {x: 0.99999994, y: 1.0000006, z: 1.0000008}
+    - name: animasyon_360_atck1:mixamorig:LeftHandThumb2
+      parentName: animasyon_360_atck1:mixamorig:LeftHandThumb1
+      position: {x: 0.0039959997, y: 0.023989, z: 0}
+      rotation: {x: 0.028968535, y: 0.008399246, z: -0.08917936, w: 0.9955588}
+      scale: {x: 1, y: 1.0000004, z: 0.9999997}
+    - name: animasyon_360_atck1:mixamorig:LeftHandThumb3
+      parentName: animasyon_360_atck1:mixamorig:LeftHandThumb2
+      position: {x: -0.000993, y: 0.020299, z: 0}
+      rotation: {x: -0.028549943, y: 0.009225834, z: -0.06320192, w: 0.99754965}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000006}
+    - name: animasyon_360_atck1:mixamorig:LeftHandThumb4
+      parentName: animasyon_360_atck1:mixamorig:LeftHandThumb3
+      position: {x: -0.003003, y: 0.013034, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:mixamorig:LeftHandIndex1
+      parentName: animasyon_360_atck1:mixamorig:LeftHand
+      position: {x: 0.023241, y: 0.075787, z: -0.000477}
+      rotation: {x: 0.06570711, y: -0.0029265722, z: -0.04440191, w: 0.99684626}
+      scale: {x: 1.0000001, y: 1.0000008, z: 1.0000005}
+    - name: animasyon_360_atck1:mixamorig:LeftHandIndex2
+      parentName: animasyon_360_atck1:mixamorig:LeftHandIndex1
+      position: {x: 0.000055999997, y: 0.017476, z: 0}
+      rotation: {x: 0.036346752, y: 0.0006112298, z: 0.0017995395, w: 0.99933743}
+      scale: {x: 1.0000001, y: 1.0000004, z: 0.9999998}
+    - name: animasyon_360_atck1:mixamorig:LeftHandIndex3
+      parentName: animasyon_360_atck1:mixamorig:LeftHandIndex2
+      position: {x: 0.000147, y: 0.018366, z: 0}
+      rotation: {x: -0.032960936, y: 0.0008081186, z: -0.010566694, w: 0.99940044}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000008}
+    - name: animasyon_360_atck1:mixamorig:LeftHandIndex4
+      parentName: animasyon_360_atck1:mixamorig:LeftHandIndex3
+      position: {x: -0.000203, y: 0.011919, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:mixamorig:LeftHandMiddle1
+      parentName: animasyon_360_atck1:mixamorig:LeftHand
+      position: {x: 0.008101, y: 0.079629995, z: -0.002679}
+      rotation: {x: 0.061183825, y: 0.00066244596, z: -0.032492083, w: 0.99759734}
+      scale: {x: 1.0000001, y: 1.0000011, z: 1.0000002}
+    - name: animasyon_360_atck1:mixamorig:LeftHandMiddle2
+      parentName: animasyon_360_atck1:mixamorig:LeftHandMiddle1
+      position: {x: -0.000036999998, y: 0.021658, z: 0}
+      rotation: {x: 0.037613843, y: 0.000070239585, z: 0.0017571005, w: 0.9992909}
+      scale: {x: 1, y: 1.0000005, z: 0.9999998}
+    - name: animasyon_360_atck1:mixamorig:LeftHandMiddle3
+      parentName: animasyon_360_atck1:mixamorig:LeftHandMiddle2
+      position: {x: 0.000071, y: 0.020803, z: 0}
+      rotation: {x: -0.038579714, y: -0.00004033653, z: -0.0017036626, w: 0.99925417}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000006}
+    - name: animasyon_360_atck1:mixamorig:LeftHandMiddle4
+      parentName: animasyon_360_atck1:mixamorig:LeftHandMiddle3
+      position: {x: -0.000034, y: 0.016052, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:mixamorig:LeftHandRing1
+      parentName: animasyon_360_atck1:mixamorig:LeftHand
+      position: {x: -0.008192, y: 0.085506, z: -0.001681}
+      rotation: {x: 0.06166769, y: -0.00044311583, z: -0.033093575, w: 0.9975479}
+      scale: {x: 1.0000002, y: 1.0000013, z: 1.0000007}
+    - name: animasyon_360_atck1:mixamorig:LeftHandRing2
+      parentName: animasyon_360_atck1:mixamorig:LeftHandRing1
+      position: {x: -0.000110999994, y: 0.018374, z: 0}
+      rotation: {x: 0.034510586, y: -0.00017272547, z: 0.0039433483, w: 0.99939656}
+      scale: {x: 0.9999997, y: 0.99999934, z: 0.99999875}
+    - name: animasyon_360_atck1:mixamorig:LeftHandRing3
+      parentName: animasyon_360_atck1:mixamorig:LeftHandRing2
+      position: {x: 0.000063, y: 0.017035, z: 0}
+      rotation: {x: -0.0040527866, y: -0.00000014453742, z: -0.000000031615617, w: 0.9999918}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000007}
+    - name: animasyon_360_atck1:mixamorig:LeftHandRing4
+      parentName: animasyon_360_atck1:mixamorig:LeftHandRing3
+      position: {x: 0.000048, y: 0.013717999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:mixamorig:LeftHandPinky1
+      parentName: animasyon_360_atck1:mixamorig:LeftHand
+      position: {x: -0.02315, y: 0.086705, z: -0.0020579998}
+      rotation: {x: 0.05991265, y: 0.0008614063, z: -0.042484924, w: 0.99729884}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.0000002}
+    - name: animasyon_360_atck1:mixamorig:LeftHandPinky2
+      parentName: animasyon_360_atck1:mixamorig:LeftHandPinky1
+      position: {x: -0.00013, y: 0.0151349995, z: 0}
+      rotation: {x: 0.03294541, y: -0.000098898796, z: 0.006794409, w: 0.9994341}
+      scale: {x: 1.0000001, y: 1.0000006, z: 0.9999996}
+    - name: animasyon_360_atck1:mixamorig:LeftHandPinky3
+      parentName: animasyon_360_atck1:mixamorig:LeftHandPinky2
+      position: {x: 0.000096, y: 0.012817, z: 0}
+      rotation: {x: -0.036794633, y: -0.00055824174, z: -0.0013945056, w: 0.9993217}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.000001}
+    - name: animasyon_360_atck1:mixamorig:LeftHandPinky4
+      parentName: animasyon_360_atck1:mixamorig:LeftHandPinky3
+      position: {x: 0.000034, y: 0.009269, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:mixamorig:RightShoulder
+      parentName: animasyon_360_atck1:mixamorig:Spine2
+      position: {x: 0.044666998, y: 0.06341, z: -0.001527}
+      rotation: {x: -0.5661557, y: -0.41698977, z: 0.5838781, w: -0.4058001}
+      scale: {x: 1.0000002, y: 1, z: 1.0000001}
+    - name: animasyon_360_atck1:mixamorig:RightArm
+      parentName: animasyon_360_atck1:mixamorig:RightShoulder
+      position: {x: -0, y: 0.095529, z: 0}
+      rotation: {x: -0.14194982, y: -0.027885929, z: 0.018556863, w: 0.98930705}
+      scale: {x: 0.99999994, y: 1.0000012, z: 1.0000005}
+    - name: animasyon_360_atck1:mixamorig:RightForeArm
+      parentName: animasyon_360_atck1:mixamorig:RightArm
+      position: {x: -0, y: 0.146347, z: 0}
+      rotation: {x: -0.029283322, y: -0.010413815, z: 0.036641136, w: 0.9988451}
+      scale: {x: 1.0000012, y: 1.0000023, z: 1.0000005}
+    - name: animasyon_360_atck1:mixamorig:RightHand
+      parentName: animasyon_360_atck1:mixamorig:RightForeArm
+      position: {x: -0, y: 0.18336399, z: 0}
+      rotation: {x: -0.093307, y: -0.21564671, z: 0.023347044, w: -0.97172284}
+      scale: {x: 1.0000005, y: 1.0000011, z: 1.0000012}
+    - name: animasyon_360_atck1:Hammer_low
+      parentName: animasyon_360_atck1:mixamorig:RightHand
+      position: {x: 0.039888494, y: 0.0741181, z: 0.017009964}
+      rotation: {x: -0.5709256, y: 0.7835092, z: 0.22535992, w: 0.09680014}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:mixamorig:RightHandPinky1
+      parentName: animasyon_360_atck1:mixamorig:RightHand
+      position: {x: 0.02871241, y: 0.097330034, z: -0.0032302774}
+      rotation: {x: 0.050850082, y: 0.010063064, z: 0.059242893, w: 0.9968968}
+      scale: {x: 1.0000002, y: 1.000001, z: 1.0000013}
+    - name: animasyon_360_atck1:mixamorig:RightHandPinky2
+      parentName: animasyon_360_atck1:mixamorig:RightHandPinky1
+      position: {x: 0.00061399996, y: 0.026018, z: 0}
+      rotation: {x: 0.037547868, y: 0.0009638552, z: -0.007868105, w: 0.9992634}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000004}
+    - name: animasyon_360_atck1:mixamorig:RightHandPinky3
+      parentName: animasyon_360_atck1:mixamorig:RightHandPinky2
+      position: {x: 0.000008999999, y: 0.0191, z: 0}
+      rotation: {x: 0.035242364, y: -0.0021043888, z: -0.013206476, w: 0.99928933}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1.0000008}
+    - name: animasyon_360_atck1:mixamorig:RightHandPinky4
+      parentName: animasyon_360_atck1:mixamorig:RightHandPinky3
+      position: {x: -0.00062299997, y: 0.018763, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:mixamorig:RightHandRing1
+      parentName: animasyon_360_atck1:mixamorig:RightHand
+      position: {x: 0.0070136106, y: 0.09827651, z: -0.0032509728}
+      rotation: {x: 0.051026206, y: -0.003354951, z: 0.018639604, w: 0.9985178}
+      scale: {x: 1, y: 1.000001, z: 1.0000014}
+    - name: animasyon_360_atck1:mixamorig:RightHandRing2
+      parentName: animasyon_360_atck1:mixamorig:RightHandRing1
+      position: {x: 0.000093330316, y: 0.024002511, z: -6.480576e-11}
+      rotation: {x: 0.035537254, y: 0.00025126513, z: -0.0014783896, w: 0.99936724}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000002}
+    - name: animasyon_360_atck1:mixamorig:RightHandRing3
+      parentName: animasyon_360_atck1:mixamorig:RightHandRing2
+      position: {x: 0.0000021903277, y: 0.022453086, z: -1.2095121e-10}
+      rotation: {x: 0.034564927, y: -0.0003013279, z: -0.0017381769, w: 0.9994009}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000005}
+    - name: animasyon_360_atck1:mixamorig:RightHandRing4
+      parentName: animasyon_360_atck1:mixamorig:RightHandRing3
+      position: {x: -0.000096, y: 0.022839999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:mixamorig:RightHandMiddle1
+      parentName: animasyon_360_atck1:mixamorig:RightHand
+      position: {x: -0.0077540544, y: 0.0958604, z: -0.004733636}
+      rotation: {x: 0.054959837, y: 0.0037856088, z: 0.048256803, w: 0.99731463}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000007}
+    - name: animasyon_360_atck1:mixamorig:RightHandMiddle2
+      parentName: animasyon_360_atck1:mixamorig:RightHandMiddle1
+      position: {x: 0.00051156484, y: 0.025636243, z: 4.951232e-11}
+      rotation: {x: 0.03800994, y: 0.00089990755, z: -0.0049542, w: 0.99926466}
+      scale: {x: 0.9999998, y: 1.0000005, z: 0.9999997}
+    - name: animasyon_360_atck1:mixamorig:RightHandMiddle3
+      parentName: animasyon_360_atck1:mixamorig:RightHandMiddle2
+      position: {x: 0.000119511205, y: 0.024653435, z: -8.833048e-11}
+      rotation: {x: 0.032604508, y: -0.0018647138, z: -0.012629493, w: 0.99938685}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: animasyon_360_atck1:mixamorig:RightHandMiddle4
+      parentName: animasyon_360_atck1:mixamorig:RightHandMiddle3
+      position: {x: -0.00063100003, y: 0.025398, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:mixamorig:RightHandIndex1
+      parentName: animasyon_360_atck1:mixamorig:RightHand
+      position: {x: -0.027971966, y: 0.092160806, z: -0.0008555787}
+      rotation: {x: 0.055018757, y: 0.0031994118, z: 0.045493796, w: 0.99744326}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000007}
+    - name: animasyon_360_atck1:mixamorig:RightHandIndex2
+      parentName: animasyon_360_atck1:mixamorig:RightHandIndex1
+      position: {x: 0.0004077532, y: 0.024901122, z: 0}
+      rotation: {x: 0.038205452, y: 0.0006482254, z: -0.0044430397, w: 0.9992599}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000005}
+    - name: animasyon_360_atck1:mixamorig:RightHandIndex3
+      parentName: animasyon_360_atck1:mixamorig:RightHandIndex2
+      position: {x: 0.000056015488, y: 0.022176517, z: 4.9480916e-11}
+      rotation: {x: 0.03390274, y: -0.0015702043, z: -0.010210145, w: 0.99937177}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: animasyon_360_atck1:mixamorig:RightHandIndex4
+      parentName: animasyon_360_atck1:mixamorig:RightHandIndex3
+      position: {x: -0.00046399998, y: 0.020845, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:mixamorig:RightHandThumb1
+      parentName: animasyon_360_atck1:mixamorig:RightHand
+      position: {x: -0.019246228, y: 0.032716595, z: 0.0018686334}
+      rotation: {x: -0.042323954, y: -0.035510194, z: 0.27233464, w: 0.96061516}
+      scale: {x: 0.9999996, y: 1.0000032, z: 1.0000013}
+    - name: animasyon_360_atck1:mixamorig:RightHandThumb2
+      parentName: animasyon_360_atck1:mixamorig:RightHandThumb1
+      position: {x: -0.0058294497, y: 0.028635545, z: 0.000000001032109}
+      rotation: {x: 0.0328452, y: -0.015335226, z: 0.066247866, w: 0.9971445}
+      scale: {x: 1.0000004, y: 1.0000007, z: 0.9999996}
+    - name: animasyon_360_atck1:mixamorig:RightHandThumb3
+      parentName: animasyon_360_atck1:mixamorig:RightHandThumb2
+      position: {x: -0.00095247163, y: 0.026070451, z: 4.0064663e-10}
+      rotation: {x: 0.0092989495, y: 0.003980933, z: 0.12516701, w: 0.99208415}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: animasyon_360_atck1:mixamorig:RightHandThumb4
+      parentName: animasyon_360_atck1:mixamorig:RightHandThumb3
+      position: {x: 0.0067819194, y: 0.023326466, z: -2.0179619e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_360_atck1:mixamorig:Neck
+      parentName: animasyon_360_atck1:mixamorig:Spine2
+      position: {x: -0, y: 0.081474, z: 0}
+      rotation: {x: 0.042183865, y: 7.3662676e-10, z: -0.000000017446759, w: 0.99910986}
+      scale: {x: 1.0000005, y: 1, z: 1}
+    - name: animasyon_360_atck1:mixamorig:Head
+      parentName: animasyon_360_atck1:mixamorig:Neck
+      position: {x: -0, y: 0.054727, z: 0.013138999}
+      rotation: {x: -0.000000011175871, y: 7.2759687e-10, z: 9.094964e-10, w: 1}
+      scale: {x: 0.9999998, y: 1, z: 1.0000004}
+    - name: animasyon_360_atck1:mixamorig:HeadTop_End
+      parentName: animasyon_360_atck1:mixamorig:Head
+      position: {x: -0, y: 0.16486, z: 0.039579}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

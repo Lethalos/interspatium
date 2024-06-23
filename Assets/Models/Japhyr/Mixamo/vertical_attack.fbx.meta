@@ -1,0 +1,969 @@
+fileFormatVersion: 2
+guid: 0f8e18ec9bbfbb44c80170cf6cee839b
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: animasyon_vertical_crack:mixamorig:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: animasyon_vertical_crack:mixamorig:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: vertical_attack(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:Japhyr_low
+      parentName: vertical_attack(Clone)
+      position: {x: -0, y: 0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:Japhyr_mechanic_fingers_low
+      parentName: animasyon_vertical_crack:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:Japhyr_mechanic_001_low
+      parentName: animasyon_vertical_crack:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:Japhyr_mechanic_002_low
+      parentName: animasyon_vertical_crack:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:Japhyr_boot_prop001_low
+      parentName: animasyon_vertical_crack:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:Japhyr_body_low
+      parentName: animasyon_vertical_crack:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:Japhyr_side_belt_low
+      parentName: animasyon_vertical_crack:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:Japhyr_belt_prop_low
+      parentName: animasyon_vertical_crack:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:Japhyr_belt_low
+      parentName: animasyon_vertical_crack:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:Japhyr_side_belt_prop001_low
+      parentName: animasyon_vertical_crack:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:Japhyr_leg_belt_low
+      parentName: animasyon_vertical_crack:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:Japhyr_mechanic_wrist_low
+      parentName: animasyon_vertical_crack:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:Japhyr_jacket_low
+      parentName: animasyon_vertical_crack:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:japhyr_mechanic_hand_low
+      parentName: animasyon_vertical_crack:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:Japhyr_mustache_low
+      parentName: animasyon_vertical_crack:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:Japhyr_boot_prop_low
+      parentName: animasyon_vertical_crack:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:Japhyr_hair_002_low
+      parentName: animasyon_vertical_crack:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:Japhyr_eyes_low
+      parentName: animasyon_vertical_crack:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:Japhyr_bags_low
+      parentName: animasyon_vertical_crack:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:Japhyr_potion_bottle_low
+      parentName: animasyon_vertical_crack:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:japhyr_cornea_low
+      parentName: animasyon_vertical_crack:Japhyr_low
+      position: {x: -0, y: -0.55327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:Hips
+      parentName: vertical_attack(Clone)
+      position: {x: 0.00039575397, y: 0.6290751, z: 0.0023767287}
+      rotation: {x: -0.000000005820766, y: -8.4703295e-18, z: 0.0000000014551917,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:LeftUpLeg
+      parentName: animasyon_vertical_crack:mixamorig:Hips
+      position: {x: -0.060548767, y: -0.029282112, z: -0.0014399535}
+      rotation: {x: -0.00013146417, y: 0.0037574, z: 0.9993814, w: 0.034967653}
+      scale: {x: 1.0000018, y: 1.0000013, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:LeftLeg
+      parentName: animasyon_vertical_crack:mixamorig:LeftUpLeg
+      position: {x: 0.0000000010236648, y: 0.2693259, z: 3.3814115e-11}
+      rotation: {x: -0.050404713, y: -0.0004904157, z: 0.009716692, w: 0.99868155}
+      scale: {x: 1.0000012, y: 1.0000006, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:LeftFoot
+      parentName: animasyon_vertical_crack:mixamorig:LeftLeg
+      position: {x: 2.3222011e-11, y: 0.25619394, z: 2.1357273e-10}
+      rotation: {x: 0.47337276, y: 0.06055402, z: -0.032641314, w: 0.87817204}
+      scale: {x: 1.0000006, y: 1, z: 1.0000004}
+    - name: animasyon_vertical_crack:mixamorig:LeftToeBase
+      parentName: animasyon_vertical_crack:mixamorig:LeftFoot
+      position: {x: -6.802894e-10, y: 0.09534767, z: 5.8849814e-10}
+      rotation: {x: 0.3281073, y: 0.04612873, z: -0.016043713, w: 0.94337714}
+      scale: {x: 1.000003, y: 1.0000026, z: 1.0000004}
+    - name: animasyon_vertical_crack:mixamorig:LeftToe_End
+      parentName: animasyon_vertical_crack:mixamorig:LeftToeBase
+      position: {x: -7.071655e-11, y: 0.039187253, z: -1.8467272e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:RightUpLeg
+      parentName: animasyon_vertical_crack:mixamorig:Hips
+      position: {x: 0.060548767, y: -0.029282112, z: -0.0016976981}
+      rotation: {x: 0.00010850204, y: 0.0031006262, z: 0.9993836, w: -0.03496809}
+      scale: {x: 0.99999994, y: 0.99999976, z: 1.0000001}
+    - name: animasyon_vertical_crack:mixamorig:RightLeg
+      parentName: animasyon_vertical_crack:mixamorig:RightUpLeg
+      position: {x: 6.8018174e-11, y: 0.2693235, z: -1.1310038e-10}
+      rotation: {x: -0.04374107, y: 0.00042580793, z: -0.00972528, w: 0.9989955}
+      scale: {x: 1.0000004, y: 1.0000005, z: 0.99999934}
+    - name: animasyon_vertical_crack:mixamorig:RightFoot
+      parentName: animasyon_vertical_crack:mixamorig:RightLeg
+      position: {x: 2.6398886e-10, y: 0.25592563, z: 2.53474e-10}
+      rotation: {x: 0.45840457, y: -0.06425397, z: 0.033251893, w: 0.88579404}
+      scale: {x: 1.0000006, y: 1.000001, z: 1.0000004}
+    - name: animasyon_vertical_crack:mixamorig:RightToeBase
+      parentName: animasyon_vertical_crack:mixamorig:RightFoot
+      position: {x: 2.2197967e-10, y: 0.09284657, z: -0.0000000010737164}
+      rotation: {x: 0.33823127, y: -0.03674273, z: 0.013217185, w: 0.94025266}
+      scale: {x: 1.000001, y: 0.9999996, z: 1.0000006}
+    - name: animasyon_vertical_crack:mixamorig:RightToe_End
+      parentName: animasyon_vertical_crack:mixamorig:RightToeBase
+      position: {x: -1.2202832e-10, y: 0.039917592, z: -1.5064358e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:Spine
+      parentName: animasyon_vertical_crack:mixamorig:Hips
+      position: {x: -0, y: 0.05412254, z: -0.004578421}
+      rotation: {x: -0.0421838, y: -0.000000023200954, z: -0.0000000024360653, w: 0.99910986}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:Spine1
+      parentName: animasyon_vertical_crack:mixamorig:Spine
+      position: {x: -0, y: 0.06336853, z: -1.9948325e-10}
+      rotation: {x: -0.000000074505806, y: -0.000000045419107, z: -0.000000015525279,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:Spine2
+      parentName: animasyon_vertical_crack:mixamorig:Spine1
+      position: {x: -0, y: 0.07242113, z: 2.5410848e-10}
+      rotation: {x: 0.000000011175871, y: 0.00000009231016, z: 0.000000013650413,
+        w: 1}
+      scale: {x: 0.99999976, y: 1, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:LeftShoulder
+      parentName: animasyon_vertical_crack:mixamorig:Spine2
+      position: {x: -0.044666503, y: 0.063410364, z: -0.0015291156}
+      rotation: {x: 0.56620973, y: -0.41690168, z: 0.5838351, w: 0.40587696}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1.000001}
+    - name: animasyon_vertical_crack:mixamorig:LeftArm
+      parentName: animasyon_vertical_crack:mixamorig:LeftShoulder
+      position: {x: 1.09031076e-10, y: 0.095529236, z: -0.0000000011935054}
+      rotation: {x: -0.14096697, y: 0.067230895, z: -0.026164055, w: 0.98738235}
+      scale: {x: 1.0000011, y: 1.0000013, z: 1.0000002}
+    - name: animasyon_vertical_crack:mixamorig:LeftForeArm
+      parentName: animasyon_vertical_crack:mixamorig:LeftArm
+      position: {x: 9.053174e-10, y: 0.14686413, z: -0.00000000514948}
+      rotation: {x: -0.028592952, y: 0.008465407, z: -0.038194068, w: 0.9988253}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+    - name: animasyon_vertical_crack:mixamorig:LeftHand
+      parentName: animasyon_vertical_crack:mixamorig:LeftForeArm
+      position: {x: -0.0000000026553455, y: 0.1836862, z: 0.0000000015112825}
+      rotation: {x: 0.07962596, y: -0.2589263, z: 0.052267816, w: 0.9611893}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:LeftHandThumb1
+      parentName: animasyon_vertical_crack:mixamorig:LeftHand
+      position: {x: 0.017305313, y: 0.024760427, z: 0.003402195}
+      rotation: {x: -0.038914815, y: 0.030970804, z: -0.30051926, w: 0.9524782}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1.0000005}
+    - name: animasyon_vertical_crack:mixamorig:LeftHandThumb2
+      parentName: animasyon_vertical_crack:mixamorig:LeftHandThumb1
+      position: {x: 0.003995749, y: 0.023989093, z: 5.632045e-10}
+      rotation: {x: 0.028964944, y: 0.008399658, z: -0.089168355, w: 0.9955599}
+      scale: {x: 1, y: 1.0000007, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:LeftHandThumb3
+      parentName: animasyon_vertical_crack:mixamorig:LeftHandThumb2
+      position: {x: -0.0009928388, y: 0.020298922, z: 3.7023834e-10}
+      rotation: {x: -0.028553126, y: 0.009225442, z: -0.06320449, w: 0.9975494}
+      scale: {x: 1, y: 1.0000002, z: 1.0000005}
+    - name: animasyon_vertical_crack:mixamorig:LeftHandThumb4
+      parentName: animasyon_vertical_crack:mixamorig:LeftHandThumb3
+      position: {x: -0.0030029097, y: 0.013033609, z: -5.2413324e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:LeftHandIndex1
+      parentName: animasyon_vertical_crack:mixamorig:LeftHand
+      position: {x: 0.023240503, y: 0.07578722, z: -0.00047666504}
+      rotation: {x: 0.06570723, y: -0.0029266772, z: -0.04440187, w: 0.99684626}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:LeftHandIndex2
+      parentName: animasyon_vertical_crack:mixamorig:LeftHandIndex1
+      position: {x: 0.00005598416, y: 0.017475603, z: -1.7504277e-10}
+      rotation: {x: 0.036352765, y: 0.00061161764, z: 0.0018000064, w: 0.9993373}
+      scale: {x: 1.0000006, y: 1.0000015, z: 1.0000007}
+    - name: animasyon_vertical_crack:mixamorig:LeftHandIndex3
+      parentName: animasyon_vertical_crack:mixamorig:LeftHandIndex2
+      position: {x: 0.00014708197, y: 0.018366257, z: -2.6650753e-11}
+      rotation: {x: -0.032967243, y: 0.0008080897, z: -0.010568851, w: 0.9994003}
+      scale: {x: 0.99999994, y: 0.9999996, z: 1.0000001}
+    - name: animasyon_vertical_crack:mixamorig:LeftHandIndex4
+      parentName: animasyon_vertical_crack:mixamorig:LeftHandIndex3
+      position: {x: -0.00020306584, y: 0.011918636, z: -2.2588188e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:LeftHandMiddle1
+      parentName: animasyon_vertical_crack:mixamorig:LeftHand
+      position: {x: 0.008101023, y: 0.07962964, z: -0.0026789436}
+      rotation: {x: 0.061186314, y: 0.00066265446, z: -0.032491382, w: 0.99759716}
+      scale: {x: 1, y: 1.0000007, z: 1.0000004}
+    - name: animasyon_vertical_crack:mixamorig:LeftHandMiddle2
+      parentName: animasyon_vertical_crack:mixamorig:LeftHandMiddle1
+      position: {x: -0.00003695642, y: 0.021657526, z: 6.465015e-11}
+      rotation: {x: 0.037612613, y: 0.00007103528, z: 0.001762554, w: 0.9992908}
+      scale: {x: 1.0000001, y: 1.000001, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:LeftHandMiddle3
+      parentName: animasyon_vertical_crack:mixamorig:LeftHandMiddle2
+      position: {x: 0.000071363516, y: 0.020802727, z: 1.8307275e-10}
+      rotation: {x: -0.03857587, y: -0.000040080777, z: -0.0017175231, w: 0.9992543}
+      scale: {x: 1.0000001, y: 0.99999946, z: 1.0000006}
+    - name: animasyon_vertical_crack:mixamorig:LeftHandMiddle4
+      parentName: animasyon_vertical_crack:mixamorig:LeftHandMiddle3
+      position: {x: -0.000034407527, y: 0.016051846, z: 6.52934e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:LeftHandRing1
+      parentName: animasyon_vertical_crack:mixamorig:LeftHand
+      position: {x: -0.008191821, y: 0.085505806, z: -0.0016811844}
+      rotation: {x: 0.06166894, y: -0.00044286245, z: -0.033093136, w: 0.9975478}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000002}
+    - name: animasyon_vertical_crack:mixamorig:LeftHandRing2
+      parentName: animasyon_vertical_crack:mixamorig:LeftHandRing1
+      position: {x: -0.0001109335, y: 0.018374208, z: 8.4966555e-11}
+      rotation: {x: 0.034507774, y: -0.00017292493, z: 0.003939866, w: 0.9993967}
+      scale: {x: 1, y: 1.0000004, z: 0.9999997}
+    - name: animasyon_vertical_crack:mixamorig:LeftHandRing3
+      parentName: animasyon_vertical_crack:mixamorig:LeftHandRing2
+      position: {x: 0.00006290408, y: 0.017035488, z: 1.2551844e-11}
+      rotation: {x: -0.0040528616, y: -0.0000002251249, z: 0.0000000739403, w: 0.9999918}
+      scale: {x: 1, y: 1.0000005, z: 1.0000006}
+    - name: animasyon_vertical_crack:mixamorig:LeftHandRing4
+      parentName: animasyon_vertical_crack:mixamorig:LeftHandRing3
+      position: {x: 0.00004802946, y: 0.013717862, z: 1.7564467e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:LeftHandPinky1
+      parentName: animasyon_vertical_crack:mixamorig:LeftHand
+      position: {x: -0.023149712, y: 0.08670542, z: -0.0020577305}
+      rotation: {x: 0.059913956, y: 0.0008614062, z: -0.042485125, w: 0.9972987}
+      scale: {x: 1.0000001, y: 1.0000007, z: 1.0000002}
+    - name: animasyon_vertical_crack:mixamorig:LeftHandPinky2
+      parentName: animasyon_vertical_crack:mixamorig:LeftHandPinky1
+      position: {x: -0.00012998185, y: 0.015135247, z: 6.355627e-11}
+      rotation: {x: 0.032944273, y: -0.00010081971, z: 0.0067841187, w: 0.99943423}
+      scale: {x: 1.0000002, y: 1.0000005, z: 0.99999946}
+    - name: animasyon_vertical_crack:mixamorig:LeftHandPinky3
+      parentName: animasyon_vertical_crack:mixamorig:LeftHandPinky2
+      position: {x: 0.000095704585, y: 0.012816699, z: -3.6709727e-10}
+      rotation: {x: -0.036781225, y: -0.0005585765, z: -0.0013780044, w: 0.99932224}
+      scale: {x: 1, y: 0.99999934, z: 1.0000006}
+    - name: animasyon_vertical_crack:mixamorig:LeftHandPinky4
+      parentName: animasyon_vertical_crack:mixamorig:LeftHandPinky3
+      position: {x: 0.0000342771, y: 0.009268618, z: 1.1660717e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:RightShoulder
+      parentName: animasyon_vertical_crack:mixamorig:Spine2
+      position: {x: 0.044666503, y: 0.06341019, z: -0.001526994}
+      rotation: {x: -0.5661557, y: -0.4169899, z: 0.5838779, w: -0.40580025}
+      scale: {x: 1.0000004, y: 1, z: 0.9999998}
+    - name: animasyon_vertical_crack:mixamorig:RightArm
+      parentName: animasyon_vertical_crack:mixamorig:RightShoulder
+      position: {x: -2.29738e-11, y: 0.09552923, z: -2.5241534e-10}
+      rotation: {x: -0.14194971, y: -0.027886178, z: 0.018557517, w: 0.98930705}
+      scale: {x: 1.0000012, y: 1.0000021, z: 1.0000017}
+    - name: animasyon_vertical_crack:mixamorig:RightForeArm
+      parentName: animasyon_vertical_crack:mixamorig:RightArm
+      position: {x: -5.0319606e-11, y: 0.14634681, z: -0.0000000013647841}
+      rotation: {x: -0.029283129, y: -0.01041375, z: 0.03664088, w: 0.9988451}
+      scale: {x: 1.0000025, y: 1.0000042, z: 1.0000011}
+    - name: animasyon_vertical_crack:mixamorig:RightHand
+      parentName: animasyon_vertical_crack:mixamorig:RightForeArm
+      position: {x: 0.00000000199632, y: 0.1833644, z: -0.000000003950881}
+      rotation: {x: -0.09330679, y: -0.21564646, z: 0.023346981, w: -0.97172296}
+      scale: {x: 1.0000012, y: 1.0000031, z: 1.0000031}
+    - name: animasyon_vertical_crack:Hammer_low
+      parentName: animasyon_vertical_crack:mixamorig:RightHand
+      position: {x: 0.039888494, y: 0.0741181, z: 0.017009964}
+      rotation: {x: -0.5709256, y: 0.7835092, z: 0.22535992, w: 0.09680014}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:RightHandPinky1
+      parentName: animasyon_vertical_crack:mixamorig:RightHand
+      position: {x: 0.02871241, y: 0.097330034, z: -0.0032302774}
+      rotation: {x: 0.050851937, y: 0.010064627, z: 0.059249014, w: 0.9968963}
+      scale: {x: 0.99999994, y: 1.0000004, z: 1.0000012}
+    - name: animasyon_vertical_crack:mixamorig:RightHandPinky2
+      parentName: animasyon_vertical_crack:mixamorig:RightHandPinky1
+      position: {x: 0.0006144635, y: 0.02601787, z: -4.6290707e-10}
+      rotation: {x: 0.03754474, y: 0.00096447836, z: -0.007877089, w: 0.99926347}
+      scale: {x: 1, y: 1.0000007, z: 0.9999996}
+    - name: animasyon_vertical_crack:mixamorig:RightHandPinky3
+      parentName: animasyon_vertical_crack:mixamorig:RightHandPinky2
+      position: {x: 0.000008878165, y: 0.019099565, z: 2.7888652e-10}
+      rotation: {x: 0.035240117, y: -0.002105952, z: -0.0132118575, w: 0.9992894}
+      scale: {x: 1, y: 1, z: 1.0000004}
+    - name: animasyon_vertical_crack:mixamorig:RightHandPinky4
+      parentName: animasyon_vertical_crack:mixamorig:RightHandPinky3
+      position: {x: -0.0006233418, y: 0.018763363, z: 1.9277449e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:RightHandRing1
+      parentName: animasyon_vertical_crack:mixamorig:RightHand
+      position: {x: 0.0070136106, y: 0.09827651, z: -0.0032509728}
+      rotation: {x: 0.051027793, y: -0.0033548612, z: 0.018639604, w: 0.9985177}
+      scale: {x: 0.9999996, y: 1.0000002, z: 1.0000015}
+    - name: animasyon_vertical_crack:mixamorig:RightHandRing2
+      parentName: animasyon_vertical_crack:mixamorig:RightHandRing1
+      position: {x: 0.000093330316, y: 0.024002511, z: -6.480576e-11}
+      rotation: {x: 0.03553743, y: 0.00025148765, z: -0.0014780263, w: 0.99936724}
+      scale: {x: 1, y: 1.0000008, z: 1.0000001}
+    - name: animasyon_vertical_crack:mixamorig:RightHandRing3
+      parentName: animasyon_vertical_crack:mixamorig:RightHandRing2
+      position: {x: 0.0000021903277, y: 0.022453086, z: -1.2095121e-10}
+      rotation: {x: 0.03456157, y: -0.00029949518, z: -0.0017301298, w: 0.99940103}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: animasyon_vertical_crack:mixamorig:RightHandRing4
+      parentName: animasyon_vertical_crack:mixamorig:RightHandRing3
+      position: {x: -0.00009552079, y: 0.022840047, z: -4.4992374e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:RightHandMiddle1
+      parentName: animasyon_vertical_crack:mixamorig:RightHand
+      position: {x: -0.0077540544, y: 0.0958604, z: -0.004733636}
+      rotation: {x: 0.054959867, y: 0.0037855934, z: 0.048256874, w: 0.9973146}
+      scale: {x: 0.9999997, y: 1, z: 1.0000008}
+    - name: animasyon_vertical_crack:mixamorig:RightHandMiddle2
+      parentName: animasyon_vertical_crack:mixamorig:RightHandMiddle1
+      position: {x: 0.00051156484, y: 0.025636243, z: 4.951232e-11}
+      rotation: {x: 0.03801301, y: 0.0008999674, z: -0.004953379, w: 0.9992646}
+      scale: {x: 0.99999994, y: 1.000001, z: 1.0000002}
+    - name: animasyon_vertical_crack:mixamorig:RightHandMiddle3
+      parentName: animasyon_vertical_crack:mixamorig:RightHandMiddle2
+      position: {x: 0.000119511205, y: 0.024653435, z: -8.833048e-11}
+      rotation: {x: 0.032601476, y: -0.0018648737, z: -0.012631385, w: 0.9993869}
+      scale: {x: 0.99999994, y: 1.0000007, z: 0.9999997}
+    - name: animasyon_vertical_crack:mixamorig:RightHandMiddle4
+      parentName: animasyon_vertical_crack:mixamorig:RightHandMiddle3
+      position: {x: -0.0006310764, y: 0.025398316, z: 1.5727517e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:RightHandIndex1
+      parentName: animasyon_vertical_crack:mixamorig:RightHand
+      position: {x: -0.027971966, y: 0.092160806, z: -0.0008555787}
+      rotation: {x: 0.05501676, y: 0.0031990095, z: 0.045493428, w: 0.99744344}
+      scale: {x: 0.9999996, y: 1.0000001, z: 1.0000004}
+    - name: animasyon_vertical_crack:mixamorig:RightHandIndex2
+      parentName: animasyon_vertical_crack:mixamorig:RightHandIndex1
+      position: {x: 0.0004077532, y: 0.024901122, z: -4.0126025e-10}
+      rotation: {x: 0.03820595, y: 0.00064834184, z: -0.004443074, w: 0.99925977}
+      scale: {x: 0.9999998, y: 0.9999996, z: 0.99999994}
+    - name: animasyon_vertical_crack:mixamorig:RightHandIndex3
+      parentName: animasyon_vertical_crack:mixamorig:RightHandIndex2
+      position: {x: 0.000056015488, y: 0.022176517, z: 4.9480916e-11}
+      rotation: {x: 0.033907894, y: -0.0015689448, z: -0.01020405, w: 0.9993716}
+      scale: {x: 1.0000002, y: 1.0000011, z: 1.0000006}
+    - name: animasyon_vertical_crack:mixamorig:RightHandIndex4
+      parentName: animasyon_vertical_crack:mixamorig:RightHandIndex3
+      position: {x: -0.0004637674, y: 0.020845497, z: -2.974543e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:RightHandThumb1
+      parentName: animasyon_vertical_crack:mixamorig:RightHand
+      position: {x: -0.019246228, y: 0.032716595, z: 0.0018686334}
+      rotation: {x: -0.04232243, y: -0.035508525, z: 0.27233544, w: 0.96061516}
+      scale: {x: 0.999999, y: 1.0000011, z: 0.9999996}
+    - name: animasyon_vertical_crack:mixamorig:RightHandThumb2
+      parentName: animasyon_vertical_crack:mixamorig:RightHandThumb1
+      position: {x: -0.0058294497, y: 0.028635545, z: 0.000000001032109}
+      rotation: {x: 0.032842062, y: -0.015335415, z: 0.066248514, w: 0.9971446}
+      scale: {x: 1, y: 1.0000011, z: 0.99999934}
+    - name: animasyon_vertical_crack:mixamorig:RightHandThumb3
+      parentName: animasyon_vertical_crack:mixamorig:RightHandThumb2
+      position: {x: -0.00095247163, y: 0.026070451, z: 4.0064663e-10}
+      rotation: {x: 0.009301323, y: 0.003980391, z: 0.12516694, w: 0.99208415}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000005}
+    - name: animasyon_vertical_crack:mixamorig:RightHandThumb4
+      parentName: animasyon_vertical_crack:mixamorig:RightHandThumb3
+      position: {x: 0.0067819194, y: 0.023326466, z: -2.0179619e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animasyon_vertical_crack:mixamorig:Neck
+      parentName: animasyon_vertical_crack:mixamorig:Spine2
+      position: {x: -0, y: 0.08147381, z: 0.000000006248282}
+      rotation: {x: 0.042183846, y: -0.00000003563014, z: 0.000000015973498, w: 0.99910986}
+      scale: {x: 1, y: 1, z: 0.9999997}
+    - name: animasyon_vertical_crack:mixamorig:Head
+      parentName: animasyon_vertical_crack:mixamorig:Neck
+      position: {x: -0, y: 0.054726943, z: 0.0131385885}
+      rotation: {x: 0.000000011175871, y: 0.000000010186341, z: -0.000000012369127,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000005}
+    - name: animasyon_vertical_crack:mixamorig:HeadTop_End
+      parentName: animasyon_vertical_crack:mixamorig:Head
+      position: {x: -0, y: 0.16486014, z: 0.039578862}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
